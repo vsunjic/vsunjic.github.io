@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+    color: darkblue;
+    font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";   
+    font-size: 14;
+    line-height: 18px;
+    width: 800px;
+    background-color: azure;
+    padding: 15px;
+    }
+
+.paragraph_2{color:darkslategray; background-color:rgba(167,237,177,0.41)}
+.novi_blok{
+    color:darkslategray; background-color:rgba(167,237,177,0.6);
+    padding: 20px;
+    margin: 20px;
+    width: 50%;
+}
+h1,h2{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    color:blue
+}
+
+span{ color: #A41616;}
+.pozadina{
+    background-image: url("Slike/background2.jpg");
+    }
+.drugapozadina {
+    background-color: darkcyan
+}
+a:link{
+    color: black;
+    background-color: aquamarine;
+    padding: 2px;
+    line-height: 25px;
+    border:2 px solid #8D98DC;
+}
+a:hover{
+    background-color: darkgray;
+ 
+}

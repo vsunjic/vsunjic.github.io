@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+    color:#155E9C
+    font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";   
+    font-size: 14;
+    line-height: 15px;
+    width: 800px;
+    background-color: azure;
+    padding: 15px;
+    }
+
+.paragraph_2{color:darkslategray; background-color:rgba(167,237,177,0.41)}
+.o_meni{
+    color:#26410A background-color:rgba(167,237,177,0.6);
+    padding: 15px;
+    margin: 15px;
+    width: 45%;
+}
+h1,h2{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    color:blue
+}
+
+span{ color: #A41616;}
+.pozadina{
+    background-image: url("Slike/background2.jpg");
+    }
+.drugapozadina {
+    background-image: url("../Projektni zadatak 3/Slike/background2.png");
+}
+
+.trecpozadina {
+    background-image: url("../Projektni zadatak 3/Slike/background3.jpg");
+}
+a:link{
+    color: black;
+    background-color: aquamarine;
+    padding: 2px;
+    line-height: 25px;
+    border:2 px solid #8D98DC;
+}
+a:hover{
+    background-color: darkgray;
+ 
+}
